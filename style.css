@@ -8,7 +8,7 @@ body {
 }
 
 #container {
-  border: 3px solid rgb(87, 87, 87);
+  /* border: 3px solid rgb(87, 87, 87); */
   border-radius: 8px;
   padding: 20px 15px 20px 15px;
   width: fit-content;
