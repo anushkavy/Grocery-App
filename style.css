@@ -78,9 +78,21 @@ ul li {
 
 ul p {
   display: block;
-  margin: 15px auto;
+  margin: 20px auto 30px auto;
   font-size: 20px;
   color: rgb(61, 61, 61);
+  /* font-weight: bold; */
+}
+
+#tool-tip {
+  display: block;
+  margin: 10px auto;
+  font-size: 15px;
+  color: black;
+  font-style: italic;
+  /* background-color: rgb(185, 224, 173);
+  padding: 15px; */
+  border-radius: 8px;
 }
 
 button:hover {
